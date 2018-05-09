@@ -1,3 +1,3 @@
 # frisby-js
 
-## Para rodar os testes executar na linha de comando: `jest`
+Para rodar os testes executar na linha de comando: `jest`
